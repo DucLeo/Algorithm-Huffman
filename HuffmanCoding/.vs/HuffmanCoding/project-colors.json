@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bca14eb6-bb8e-4045-ae39-b020b6ca0639": {
+      "ProjectGuid": "bca14eb6-bb8e-4045-ae39-b020b6ca0639",
+      "DisplayName": "HuffmanCoding",
+      "ColorIndex": 0
+    },
+    "749d5328-4b0b-4fc3-993a-553e701d0b20": {
+      "ProjectGuid": "749d5328-4b0b-4fc3-993a-553e701d0b20",
+      "DisplayName": "TestAlgorithmHuffman",
+      "ColorIndex": 1
+    },
+    "e1886719-12c2-434c-adda-5d164da62a98": {
+      "ProjectGuid": "e1886719-12c2-434c-adda-5d164da62a98",
+      "DisplayName": "TestAlgorithmHuffman",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
