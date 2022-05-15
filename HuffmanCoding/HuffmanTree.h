@@ -1,6 +1,6 @@
 #pragma once
 #include<iostream>
-#include "RBT.h"
+#include "..\AiCD BRT\List.h"
 
 class EoHuffmanTree {
 public:
