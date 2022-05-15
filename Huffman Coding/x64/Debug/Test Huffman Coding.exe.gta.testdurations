@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>C:\Users\GodLu\source\repos\Huffman Coding\x64\Debug\Test Huffman Coding.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="Test_Encode." Duration="1" />
+    <TestDuration Test="Test_EncodeString." Duration="1" />
+    <TestDuration Test="Test_SizeOriginal." Duration="1" />
+    <TestDuration Test="Test_SizeEncoded." Duration="1" />
+    <TestDuration Test="Test_DecodeString." Duration="1" />
+  </TestDurations>
+</GtaTestDurations>

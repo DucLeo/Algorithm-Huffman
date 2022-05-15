@@ -1,7 +1,0 @@
-﻿  test.cpp
-C:\Users\GodLu\source\repos\TestAlgorithmHuffman\test.cpp(5,1): warning C4003: not enough arguments for function-like macro invocation 'TEST'
-C:\Users\GodLu\source\repos\TestAlgorithmHuffman\test.cpp(94,1): warning C4003: not enough arguments for function-like macro invocation 'TEST'
-C:\Users\GodLu\source\repos\TestAlgorithmHuffman\test.cpp(102,1): warning C4003: not enough arguments for function-like macro invocation 'TEST'
-C:\Users\GodLu\source\repos\TestAlgorithmHuffman\test.cpp(112,1): warning C4003: not enough arguments for function-like macro invocation 'TEST'
-C:\Users\GodLu\source\repos\TestAlgorithmHuffman\test.cpp(122,1): warning C4003: not enough arguments for function-like macro invocation 'TEST'
-  TestAlgorithmHuffman.vcxproj -> C:\Users\GodLu\source\repos\HuffmanCoding\x64\Debug\TestAlgorithmHuffman.exe

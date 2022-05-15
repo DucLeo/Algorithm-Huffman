@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  test.cpp
+C:\Users\GodLu\source\repos\Test Huffman Coding\test.cpp(5,1): warning C4003: not enough arguments for function-like macro invocation 'TEST'
+C:\Users\GodLu\source\repos\Test Huffman Coding\test.cpp(94,1): warning C4003: not enough arguments for function-like macro invocation 'TEST'
+C:\Users\GodLu\source\repos\Test Huffman Coding\test.cpp(102,1): warning C4003: not enough arguments for function-like macro invocation 'TEST'
+C:\Users\GodLu\source\repos\Test Huffman Coding\test.cpp(112,1): warning C4003: not enough arguments for function-like macro invocation 'TEST'
+C:\Users\GodLu\source\repos\Test Huffman Coding\test.cpp(122,1): warning C4003: not enough arguments for function-like macro invocation 'TEST'
+  Test Huffman Coding.vcxproj -> C:\Users\GodLu\source\repos\Huffman Coding\x64\Debug\Test Huffman Coding.exe
